@@ -2,7 +2,7 @@
   "name": "psilokatalaves-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "psilokatalaves.gr",
+  "homepage": "https://psilokatalaves.gr",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
